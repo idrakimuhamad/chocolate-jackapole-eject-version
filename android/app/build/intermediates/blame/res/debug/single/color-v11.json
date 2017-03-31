@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/idraki/Development/cj-android/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/idraki/.android/build-cache/57a15661e2bbd2332aad117038ebc310c51db9a3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/idraki/Development/cj-android/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/idraki/.android/build-cache/57a15661e2bbd2332aad117038ebc310c51db9a3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

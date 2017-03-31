@@ -111,10 +111,11 @@ export default class App extends Component {
         }}>
         <View>
           <View
-            style={styles.row}>
+            style={styles.column}>
             <Image
-              style={styles.thumb}
+              style={styles.instaphoto}
               source={{uri: item.AlbumCover}}
+              resizeMode="cover"
             />
             <Text
               style={styles.albumName}>
@@ -155,7 +156,7 @@ export default class App extends Component {
         key={image.ContentURL}
         source={{ uri: image.ContentURL }}
         style={styles.imageGallery}
-        resizeMode="contain" />
+        resizeMode="cover" />
     );
   }
 
@@ -187,7 +188,7 @@ export default class App extends Component {
             onEndReachedThreshold={30}
             dataSource={this.state.dataSource}
             renderRow={this._renderRow}
-            renderSeparator={this._renderSeparator}
+            // renderSeparator={this._renderSeparator}
           />
           {loadMore ?
             <View
@@ -213,7 +214,7 @@ export default class App extends Component {
             animationType={"slide"}
             transparent={false}
             visible={this.state.modalVisible}
-            onRequestClose={() => {alert("Modal has been closed.")}}
+            onRequestClose={() => {console.log("Modal has been closed.")}}
             >
            <View style={styles.imageGalleryContainer}>
             <View>
@@ -279,20 +280,20 @@ const styles = StyleSheet.create({
   contentContainer: {
     paddingTop: (Platform.OS === 'ios') ? 20 : 0,
   },
-  row: {
-    flexDirection: 'row',
-    justifyContent: 'center',
+  column: {
+    flexDirection: 'column',
+    // justifyContent: 'center',
     alignItems: 'center',
-    padding: 10,
-    backgroundColor: '#F6F6F6',
+    // padding: 10,
+    backgroundColor: '#FFF',
   },
-  thumb: {
-    width: 64,
-    height: 64,
+  instaphoto: {
+    width: window.width,
+    height: window.width,
   },
   albumName: {
-    flex: 1,
-    marginLeft: 20
+    paddingTop: 20,
+    paddingBottom: 20
   },
   imageGalleryContainer: {
     flex: 1,
@@ -306,12 +307,15 @@ const styles = StyleSheet.create({
   },
   imageGallery: {
     width: window.width,
-    height: window.width / 2
+    height: window.height
   },
   closeModal: {
     position: 'absolute',
     top: 20,
-    right: 20
+    right: 10,
+    backgroundColor: 'rgba(0,0,0, .5)',
+    paddingLeft: 15,
+    paddingRight: 15
   },
   loadingIndicator: {
     position: 'absolute',
