@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_0a5b2b17d7557ecf1d837a33ec58eed8d142bc7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_0c657b28b7eab4cd1d8c4fa9e729c5ed848eb0b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_b18d77667afb0283132a0ca35360048ddb25c6af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/okhttp-3.4.1_dc8ae37040b7023f48d3867981e7665ebf457640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/okio-1.9.0_959eed44ccf2885083eabf3aab902d34378119ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_3b9ae70b5b93202d63fd8ebf830244e9bc9b6aba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.android/build-cache/88e34845e34478881c07110f17158e2b61d4ba5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/classes_004f442e4019a38b1c6488d4ca514ab1e164176e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_6bed4a5e6b8f590203101a26cb76f065a87cef4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_0c657b28b7eab4cd1d8c4fa9e729c5ed848eb0b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.android/build-cache/de364747718f3d37c9f27426a45f0150e2bcca1a/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/infer-annotations-1.5_ac2f2032d999ef635b2c697a1a48c9295971a341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_32253e31bee9e607db1601c8a5c154a98a886464.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_ca6ff6585bccc1bb5aee0074f664f796dabde1c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.android/build-cache/fb4de1da153a6e09331f4478d5760fbe08495172/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/classes_64f5abb82e2b0080f3a7592cd2d22d3ecba5953c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_0a5b2b17d7557ecf1d837a33ec58eed8d142bc7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.android/build-cache/fcd8ef0de0c71184b3b630626d2ff52732207056/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/classes_bad8957ff10172f08f86ebe15f1e15fd0ff963d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_8c919580f93a0107e25bbe0d26eb1e160f6cd34b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.42.3_9ce1b667aab90e0ff60a660e54c23660c1b46b35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_959eed44ccf2885083eabf3aab902d34378119ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.android/build-cache/57a15661e2bbd2332aad117038ebc310c51db9a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/classes_bc8a3469233e895e3ba2b4b9b0fbe2320fd3a353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_965447d7c1abc3c796da583016387eb2f5d5411a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_58865420f126bfdf929f966759723a5236fdfdf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.android/build-cache/d7e78110ae966442a198a003d4535c792dcb398c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/classes_9e0b1fd35410d7c7445cdad814317e97601d9fe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_deab4f172d62dac185502159650b0df38aa3dbf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_dc8ae37040b7023f48d3867981e7665ebf457640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/library-2.4.0_3173746c4115403a23f84a3447dfb21eb0eb9fc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ec16b2d70929b645dcfe3daf3a96a0e7f0007fe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.android/build-cache/de364747718f3d37c9f27426a45f0150e2bcca1a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/classes_532c151cfd4d2acc2ef3316e59e574bcc18b0496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_beecd0e8f5aa175b895ad425f4dd6cf0264db464.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.android/build-cache/977c992c8f9e991153ad8145358b2e974939240b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/classes_ee95227b52e0d8f230e72cc63e4bac566116bd4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_301b5f5b9a4574a5178b8cb081059320c21c5f85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/javax.inject-1_58865420f126bfdf929f966759723a5236fdfdf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_f3e7fd46c9f011d7fd33043f05769f4a9f5dcdc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_3173746c4115403a23f84a3447dfb21eb0eb9fc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.4.1_282900c30ced13b66fb94ed67faae60520ab56be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_12121a42b7b826224d5e335099810aa91239e0b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_ec16b2d70929b645dcfe3daf3a96a0e7f0007fe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_10aca9a4062c9a7b1434db07e6354cc1aa0a142a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.android/build-cache/e89cd1d174943bb04f3365dd1d2c2f5be771afaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/classes_f769480431a81058656c406d60137e3858ec4d6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.android/build-cache/d01da7a50d94d93a2e8bde278113fad1955586c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/classes_6a3ee284ee99e520891493c6ea4ae635bd1c8c07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_3b2119970a4862ca5af022e64c0328b275590475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.android/build-cache/b84dc4bd694ddf7e6becdd4f4a576ec317dc04c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/classes_dab29cffb341cdf4e28f782c8e3b8a361436922d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_0a0b019b5a9d14402517a04aaff46625e4490d4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.android/build-cache/e89cd1d174943bb04f3365dd1d2c2f5be771afaf/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_a643d337d64b07b6c55fd9fa25d45ac587147461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/classes_183fa57a8963ca9313268b47a552b28a3b6776cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.android/build-cache/79ec3c851156b212026e72a29467777e5540ea75/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/classes_894d0e770239089e402c0be85f1acb2639880cb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_3b9ae70b5b93202d63fd8ebf830244e9bc9b6aba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/Development/cj-android/android/app/build/intermediates/exploded-aar/chocolateJackapole/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/chocolateJackapole-react-native-vector-icons-unspecified_89edc80c1e04ac2c251613c923180d4f76ed2392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.android/build-cache/b92fb124046528ec045647794ea4eb03b78c9fce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/classes_d7c050358a546463ee5fb0d6d9f65417ebb5e398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/release/okhttp-ws-3.4.1_3b2119970a4862ca5af022e64c0328b275590475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/idraki/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/idraki/Development/cj-android/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_282900c30ced13b66fb94ed67faae60520ab56be.jar" />
+    </item>
+
+</items>
